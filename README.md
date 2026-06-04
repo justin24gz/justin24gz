@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Justin Josué Gálvez Pérez
 
-<!--
-**justin24gz/justin24gz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 Sobre mí
+Soy estudiante interesado en el desarrollo web y la tecnología. Actualmente estoy aprendiendo a crear páginas web utilizando diferentes herramientas y tecnologías. Me gusta adquirir nuevos conocimientos y desarrollar proyectos que me permitan mejorar mis habilidades de programación.
 
-Here are some ideas to get you started:
+## 💻 Lo que estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- DOM
+- Bootstrap
+- Diseño Responsive
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto actual
+Estoy aprendiendo a publicar páginas web utilizando GitHub Pages y a gestionar proyectos mediante Git y GitHub.
+
+## 🎯 Meta técnica
+Mi meta es crear sitios web funcionales, organizados y adaptables a diferentes dispositivos, aplicando buenas prácticas de desarrollo web.
+
+## 📚 Estudios
+Actualmente me encuentro estudiando desarrollo web y fortaleciendo mis conocimientos en programación, diseño de interfaces y control de versiones.
+
+## 🌱 Intereses
+- Desarrollo Web
+- Programación Frontend
+- Diseño Responsivo
+- Tecnologías Web
+- Aprendizaje continuo
+
+## 📫 Contacto
+GitHub: https://github.com/TU-USUARIO
