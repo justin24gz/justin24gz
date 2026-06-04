@@ -1,4 +1,5 @@
-# 👋 Hola, soy Justin Josué Gálvez Pérez
+# 👋 hey, I´m Justin Josué Gálvez Pérez
+# -My personal repository-
 
 ## 📖 Sobre mí
 Soy estudiante interesado en el desarrollo web y la tecnología. Actualmente estoy aprendiendo a crear páginas web utilizando diferentes herramientas y tecnologías. Me gusta adquirir nuevos conocimientos y desarrollar proyectos que me permitan mejorar mis habilidades de programación.
