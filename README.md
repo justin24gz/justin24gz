@@ -24,5 +24,3 @@ Actualmente me encuentro estudiando desarrollo web y fortaleciendo mis conocimie
 
 ## 🎯 Meta técnica
 Mi meta es crear sitios web funcionales, organizados y adaptables a diferentes dispositivos, aplicando buenas prácticas de desarrollo web.
-
-###ass
